@@ -24,10 +24,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="320" height="240" controls>
-  <source src="seamonster_demo.gif" type="video/gif">
-</video>
-
 <img src='seamonster_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ... 
